@@ -8,6 +8,7 @@
     "prepare": "husky"
   },
   "bugs": "https://github.com/fireflysemantics/fs-github-flow-docs-starter/issues",
+  "homepage": "https://github.com/fireflysemantics/fs-github-flow-docs-starter/",
   "keywords": [],
   "author": "",
   "license": "ISC",
