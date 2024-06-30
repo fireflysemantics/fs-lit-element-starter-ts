@@ -13,7 +13,14 @@
     "type": "git",
     "url": "git+https://github.com/fireflysemantics/fs-github-flow-docs-starter.git"
   },
-  "keywords": [],
+  "keywords": [
+    "starter-project",
+    "github",
+    "flow",
+    "pull-requests",
+    "README",
+    "LICENSE"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
