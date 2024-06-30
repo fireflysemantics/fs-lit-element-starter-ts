@@ -27,3 +27,4 @@ To get started extending this project see the [Guidelines for Extending This Pro
 [contributing]: .github/CONTRIBUTING.md
 [extension]: .github/PROJECT_EXTENSION.md
 [questions]: .github/QUESTIONS.md
+[conventional-commits]: https://www.conventionalcommits.org/en/v1.0.0/
