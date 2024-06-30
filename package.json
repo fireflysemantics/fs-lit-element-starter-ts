@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky"
   },
+  "bugs": "https://github.com/fireflysemantics/fs-github-flow-docs-starter/issues",
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -17,7 +18,7 @@
     "husky": "^9.0.11",
     "release-it": "^17.4.0"
   },
-"release-it": {
+  "release-it": {
     "git": {
       "commitMessage": "chore: release ${version}"
     },
@@ -33,11 +34,17 @@
         "preset": {
           "name": "conventionalcommits",
           "type": [
-            { "type": "feat", "section": "Features"},
-            { "type": "fix", "section": "Bug Fixes"}
+            {
+              "type": "feat",
+              "section": "Features"
+            },
+            {
+              "type": "fix",
+              "section": "Bug Fixes"
+            }
           ]
         }
       }
-    } 
-  }  
+    }
+  }
 }
