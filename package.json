@@ -21,7 +21,7 @@
     "README",
     "LICENSE"
   ],
-  "author": "",
+  "author": "Firefly Semantics Corporation",
   "license": "ISC",
   "devDependencies": {
     "@commitlint/cli": "^19.3.0",
