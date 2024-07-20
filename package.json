@@ -3,6 +3,7 @@
   "version": "1.1.0",
   "description": "A typescript starter project by Firefly Semantics Corporation",
   "main": "build/index.bundle.js",
+  "module": "build/index.js",
   "type": "module",
   "types": "build/index.d.ts",
   "scripts": {
