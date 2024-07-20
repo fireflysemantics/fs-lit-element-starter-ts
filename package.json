@@ -2,7 +2,7 @@
   "name": "fs-typescript-starter",
   "version": "1.1.0",
   "description": "A typescript starter project by Firefly Semantics Corporation",
-  "main": "index.js",
+  "main": "build/index.bundle.js",
   "scripts": {
     "build": "npm run build:clean && tsc",
     "build:clean": "rimraf build",
