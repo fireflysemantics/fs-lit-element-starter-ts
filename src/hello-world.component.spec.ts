@@ -1,5 +1,5 @@
 import {expect, fixture, html} from '@open-wc/testing';
-import {HelloWorldComponent} from '../hello-world.component';
+import {HelloWorldComponent} from './hello-world.component';
 
 suite('hello-world.component tests', () => {
   test('fixture instantiation', async () => {
