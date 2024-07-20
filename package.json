@@ -4,6 +4,7 @@
   "description": "A typescript starter project by Firefly Semantics Corporation",
   "main": "build/index.bundle.js",
   "type": "module",
+  "types": "build/index.d.ts",
   "scripts": {
     "build": "npm run build:clean && tsc",
     "build:clean": "rimraf build",
