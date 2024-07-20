@@ -4,7 +4,9 @@
   "description": "A typescript starter project by Firefly Semantics Corporation",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm run build:clean && tsc",
+    "build:clean": "rimraf build",
+    "build:watch": "npm run clean:build && tsc --watch",
     "release": "npx release-it",
     "prepare": "husky"
   },
