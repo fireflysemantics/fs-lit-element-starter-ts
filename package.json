@@ -20,7 +20,15 @@
     "flow",
     "pull-requests",
     "README",
-    "LICENSE"
+    "LICENSE",
+    "Typescript",
+    "typescript-eslint",
+    "prettier",
+    "lint-staged",
+    "husky",
+    "hooks",
+    "git",
+    "testing"
   ],
   "author": "Firefly Semantics Corporation",
   "license": "MIT",
