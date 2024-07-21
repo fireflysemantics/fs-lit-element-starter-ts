@@ -1,4 +1,4 @@
-# Firefly Semantics Typescript Starter Project
+# Firefly Semantics Lit Element Starter Project
 
 This is a baseline Typescript starter project that extends the Firefly Semantics [Github Flow Starter Project][fs-github-flow].
 
