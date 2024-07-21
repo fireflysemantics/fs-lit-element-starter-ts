@@ -36,7 +36,7 @@
     "release": "npx release-it",
     "prepare": "husky"
   },
-  "bugs": "https://github.com/fireflysemantics/fs-typscript-starter/issues",
+  "bugs": "https://github.com/fireflysemantics/fs-lit-element-starter-ts/issues",
   "homepage": "https://github.com/fireflysemantics/fs-typscript-starter/",
   "repository": {
     "type": "git",
