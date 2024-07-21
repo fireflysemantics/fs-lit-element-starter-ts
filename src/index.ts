@@ -1,1 +1,2 @@
-export * from './hello-world.component';
+export * from './my-dispatcher.component';
+export * from './my-listener.component';
