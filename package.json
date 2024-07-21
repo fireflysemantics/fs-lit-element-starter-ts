@@ -1,5 +1,5 @@
 {
-  "name": "fs-typescript-starter",
+  "name": "fs-lit-element-starter-ts",
   "version": "1.2.0",
   "description": "A typescript starter project by Firefly Semantics Corporation",
   "main": "build/index.bundle.js",
