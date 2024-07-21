@@ -6,6 +6,10 @@
   "module": "build/index.js",
   "type": "module",
   "types": "build/index.d.ts",
+  "lint-staged": {
+    "*.ts": "npm run lint:eslint",
+    "*.{js,ts,css,md}": "prettier --write"
+  },
   "scripts": {
     "build": "npm run build:clean && tsc",
     "build:clean": "rimraf build",
