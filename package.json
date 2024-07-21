@@ -40,7 +40,7 @@
   "homepage": "https://github.com/fireflysemantics/fs-lit-element-starter-ts/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fireflysemantics/fs-typscript-starter.git"
+    "url": "https://github.com/fireflysemantics/fs-lit-element-starter-ts.git"
   },
   "keywords": [
     "starter-project",
