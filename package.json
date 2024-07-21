@@ -29,6 +29,7 @@
     "npm:unpub": "npm unpublish --force",
     "analyze": "cem analyze --litelement --globs \"src/**/*.ts\"",
     "analyze:watch": "cem analyze --litelement --globs \"src/**/*.ts\" --watch",
+    "lint:lit-analyzer": "lit-analyzer",
     "lint:eslint": "npx eslint .",
     "rollup": "npm run build && rollup -c",
     "checksize": "npm run rollup && cat ./build/index.bundled.js | gzip -9 | wc -c ; rm ./build/index.bundled.js",
