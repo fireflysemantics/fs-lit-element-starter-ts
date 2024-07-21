@@ -25,6 +25,7 @@
     "doc:deploy": "git subtree push --prefix doc origin gh-pages",
     "lint:eslint": "npx eslint .",
     "rollup": "npm run build && rollup -c",
+    "checksize": "npm run rollup && cat ./build/index.bundled.js | gzip -9 | wc -c ; rm ./build/index.bundled.js",
     "format": "prettier \"**/*.{cjs,html,js,json,md,ts}\" --write",
     "playwright-init": "npx playwright install",
     "release": "npx release-it",
