@@ -46,6 +46,9 @@
     "url": "https://github.com/fireflysemantics/fs-lit-element-starter-ts.git"
   },
   "keywords": [
+    "lit",
+    "web-components",
+    "lit-element",
     "starter-project",
     "github",
     "flow",
