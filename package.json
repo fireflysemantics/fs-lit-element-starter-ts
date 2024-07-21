@@ -37,7 +37,7 @@
     "prepare": "husky"
   },
   "bugs": "https://github.com/fireflysemantics/fs-lit-element-starter-ts/issues",
-  "homepage": "https://github.com/fireflysemantics/fs-typscript-starter/",
+  "homepage": "https://github.com/fireflysemantics/fs-lit-element-starter-ts/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fireflysemantics/fs-typscript-starter.git"
