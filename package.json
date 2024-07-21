@@ -29,6 +29,7 @@
     "rollup": "npm run build && rollup -c",
     "checksize": "npm run rollup && cat ./build/index.bundled.js | gzip -9 | wc -c ; rm ./build/index.bundled.js",
     "format": "prettier \"**/*.{cjs,html,js,json,md,ts}\" --write",
+    "serve": "wds --node-resolve --app-index demo/index.html --open",
     "playwright-init": "npx playwright install",
     "release": "npx release-it",
     "prepare": "husky"
