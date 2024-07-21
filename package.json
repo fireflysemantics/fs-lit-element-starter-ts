@@ -12,6 +12,7 @@
   },
   "scripts": {
     "build": "npm run build:clean && tsc",
+    "clean": "npm run build:clean && npm run doc:clean",
     "build:clean": "rimraf build",
     "build:watch": "npm run clean:build && tsc --watch",
     "test": "npm run test:dev && npm run test:prod && npm run build:clean",
