@@ -27,6 +27,8 @@
     "doc:deploy": "git subtree push --prefix doc origin gh-pages",
     "npm:pub": "npm publish --access=public",
     "npm:unpub": "npm unpublish --force",
+    "analyze": "cem analyze --litelement --globs \"src/**/*.ts\"",
+    "analyze:watch": "cem analyze --litelement --globs \"src/**/*.ts\" --watch",
     "lint:eslint": "npx eslint .",
     "rollup": "npm run build && rollup -c",
     "checksize": "npm run rollup && cat ./build/index.bundled.js | gzip -9 | wc -c ; rm ./build/index.bundled.js",
