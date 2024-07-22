@@ -1,3 +1,15 @@
+## [1.3.0](https://github.com/fireflysemantics/fs-lit-element-starter-ts/compare/1.2.0...1.3.0) (2024-07-22)
+
+### Features
+
+- add lit element source code example ([73a6659](https://github.com/fireflysemantics/fs-lit-element-starter-ts/commit/73a665939e9507e6c537366e8ae17aba78e28399))
+- add the `lint:lit` script ([ba18449](https://github.com/fireflysemantics/fs-lit-element-starter-ts/commit/ba184492644cd03bbb5e347ad588d2e33972245b))
+- add the `lint:lit` to the `lint` script ([a922c12](https://github.com/fireflysemantics/fs-lit-element-starter-ts/commit/a922c12df1b620dc45c05abb130f3438751c0b4c))
+- add the `lit-analyzer` ([6b2d4c4](https://github.com/fireflysemantics/fs-lit-element-starter-ts/commit/6b2d4c49c4f4d7358b5c3d181e7d47b4bb9c82f0))
+- add the custom elements manifest analyzer ([a9a16e2](https://github.com/fireflysemantics/fs-lit-element-starter-ts/commit/a9a16e2d65c5fb05bf6d57c2e9c35d5a6336d7c8))
+- add the lit dependency ([244b66b](https://github.com/fireflysemantics/fs-lit-element-starter-ts/commit/244b66b27c663d1e3b71ee64d812c50d3220c799))
+- add vscode recommended extensions ([87aaf0f](https://github.com/fireflysemantics/fs-lit-element-starter-ts/commit/87aaf0f763d41d96d536b4884f5c7e2b98620a01))
+
 ## [1.2.0](https://github.com/fireflysemantics/fs-typscript-starter/compare/1.1.0...1.2.0) (2024-07-21)
 
 ### Features
